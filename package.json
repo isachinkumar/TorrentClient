@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Upender, Piyanshu",
+  "author": "Sachin",
   "license": "ISC",
   "dependencies": {
     "bencode": "^2.0.1",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dahiya27/TorrentClient.git"
+    "url": "git+https://github.com/isachinkumar/TorrentClient.git"
   },
   "bugs": {
-    "url": "https://github.com/Dahiya27/TorrentClient/issues"
+    "url": "https://github.com/isachinkumar/TorrentClient/issues"
   },
-  "homepage": "https://github.com/Dahiya27/TorrentClient#readme"
+  "homepage": "https://github.com/isachinkumar/TorrentClient#readme"
 }
